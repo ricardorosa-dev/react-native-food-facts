@@ -1,6 +1,7 @@
 # OSX
 #
 .DS_Store
+my-upload-key.keystore
 
 # Xcode
 #
@@ -52,3 +53,6 @@ buck-out/
 # Expo
 .expo/
 web-build/
+
+android/app
+my-upload-key.keystore
